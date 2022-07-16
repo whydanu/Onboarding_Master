@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">On Boarding Animated Lottie</string>
+    <string name="PESAN_MAKANAN_MU_SEKARANG">Order Food Now</string>
+    <string name="Banyak_Pilihan_Menu">Many Menu Options</string>
+    <string name="Transaksi_Mudah_Dan_Aman">Easy And Safe Transaction</string>
+    <string name="Pesanan_Mu_Sedang_Dikirim">Order On The Go</string>
+    <string name="Pembayaran_Selesai_Tunggu_Pesanan_Sampai">Payment Done Your Food Is On The Way</string>
+    <string name="detail"> OnBoarding Screen Ecommerce This Is Sample For Learning</string>
+    <string name="pindah"><![CDATA[>]]></string>
+
+</resources>
